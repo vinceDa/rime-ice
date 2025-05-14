@@ -4,19 +4,19 @@ patch:
     #color_scheme: ms_blue
     color_scheme: ms_wechatgreen
     font_face: "微软雅黑"
-    font_point: 10
+    font_point: 18
     horizontal: true
     inline_preedit: true
-    label_font_point: 10
+    label_font_point: 18
     layout:
-      border: 2
-      round_corner: 10
-      margin_x: 0
-      margin_y: 0
-      hilite_padding: 15
-      hilite_spacing: 5
-      spacing: 0
-      candidate_spacing: 0
+      border: 3
+      round_corner: 12
+      margin_x: 8
+      margin_y: 8
+      hilite_padding: 25
+      hilite_spacing: 10
+      spacing: 8
+      candidate_spacing: 8
   preset_color_schemes:
     ms_babyblue:
       name: "MS 宝宝蓝／MS BabyBlue"
